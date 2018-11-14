@@ -1,0 +1,10 @@
+E:\Asynchronouse\Sample\Sample\bin\Debug\Sample.exe.config
+E:\Asynchronouse\Sample\Sample\bin\Debug\Sample.exe
+E:\Asynchronouse\Sample\Sample\bin\Debug\Sample.pdb
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.Form1.resources
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.exe
+E:\Asynchronouse\Sample\Sample\obj\Debug\Sample.pdb
